@@ -1,6 +1,6 @@
 html, body{
 	height: 100%;
-	font-family: Inter, sans-serif;
+	font-family: "Inter"!important;
 	margin: 0;
 	padding: 0;
 }
